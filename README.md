@@ -258,6 +258,4 @@ This project is not licensed.
 
 ---
 
-**Academic Grade**: A+ (Exceeds all case study requirements)
-
 **Business Impact**: Provides actionable insights for promotion strategy optimization with statistical rigor and predictive accuracy. 
