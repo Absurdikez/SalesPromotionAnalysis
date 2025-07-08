@@ -49,7 +49,6 @@ class PromotionAnalyzer:
         self.grid_search_results = {}
         
     def log(self, message, level="INFO"):
-        """Human-readable logging"""
         if self.verbose:
             timestamp = time.strftime("%H:%M:%S")
             if level == "SUCCESS":
